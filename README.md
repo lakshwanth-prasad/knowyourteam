@@ -1,2 +1,0 @@
-# knowyourteam
-Football Club Data
